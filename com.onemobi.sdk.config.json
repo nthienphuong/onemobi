@@ -1,6 +1,6 @@
 {
-    "url_data":"https://onemobisdk.firebaseapp.com/config.json",
-    "url_config":"https://onemobisdk.firebaseapp.com/config.json",
+    "url_data":"https://raw.githubusercontent.com/nthienphuong/onemobi/master/com.onemobi.sdk.config.json",
+    "url_config":"https://raw.githubusercontent.com/nthienphuong/onemobi/master/com.onemobi.sdk.config.json",
     "topic":"global",
     "time_skip": 43200000,
     "time_repeat": 300000,
