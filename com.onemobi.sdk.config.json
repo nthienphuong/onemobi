@@ -3,10 +3,10 @@
     "url_config":"https://raw.githubusercontent.com/nthienphuong/onemobi/master/com.onemobi.sdk.config.json",
     "topic":"global",
     "time_skip": 43200000,
-    "time_repeat": 300000,
-    "time_ad_seperator": 290000,
+    "time_repeat": 180000,
+    "time_ad_seperator": 150000,
     "time_ad_live":10000,
     "ad_clock":"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
-    "ad_sequence":"richadx,admob,fan,chartboost,unity",
+    "ad_sequence":"richadx,admob,fan,chartboost,unity,startapp",
     "deny_country": ""
 }
