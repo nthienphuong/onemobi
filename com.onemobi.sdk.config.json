@@ -8,8 +8,8 @@
     "time_ad_seperator": 150000,
     "time_ad_live":10000,
     "ad_clock":"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
-    "ad_networks":"richadx,fan,admob,unity",
-    "ad_sequence":"richadx,admob,fan,richadx,admob,fan,unity",
+    "ad_networks":"richadx,fan,admob",
+    "ad_sequence":"richadx,admob,fan,richadx,admob,fan",
     "deny_country": "",
     "admob":{
         "app_id":{"flag":true, "value":"A34B396085712D35337E838A20257C8943C3392EAF0534E79C398D431A2D539B5B270BF315A34D1FA9A267E7D0957EB5"},
