@@ -1,7 +1,7 @@
 {
-    "key0":"",
-    "key1":"",
-    "key": "",
+    "key0":"A436D1B83175C004E9BF436F3CE1FAD6C2F1708C57598361BA4BBA57C4A64632B1D03CBB198A8D25B559B0A0C504E87201519AF3A37B92AAEFC069AA446F9670B50F39F1169ABE9897E66EEF8F5D676A6F0BD81ECDF386ADD83709D3CC305DF5C5CCBEFDCED62F8DCA2288ADD77260BD",
+    "key1":"A436D1B83175C004E9BF436F3CE1FAD6C2F1708C57598361BA4BBA57C4A64632B1D03CBB198A8D25B559B0A0C504E87201519AF3A37B92AAEFC069AA446F9670B50F39F1169ABE9897E66EEF8F5D676A6F0BD81ECDF386ADD83709D3CC305DF5C5CCBEFDCED62F8DCA2288ADD77260BD",
+    "key": "130C5E854B3E832F9C8BAB51DBC45EB0E4E3933F5E0A27E5F11EEB2FDF8CCABB",
     "topic":"global",
     "time_skip": 28800000,
     "time_repeat": 180000,
@@ -13,20 +13,20 @@
     "ad_sequence":"admob,admob,fan,admob,admob,fan,admob,admob,fan,admob",
     "deny_country": "",
     "admob":{
-        "app_id":{"flag":true, "value":""},
-        "banner":{"flag":true, "value":""},
-        "inters":{"flag":true, "value":""},
+        "app_id":{"flag":true, "value":"82672A5A665AE630671918B7494C4FE2DB0540E27CDBF73876579D82832ECBCEE54E7FDD6FDAF03567355C0C4DA63A31"},
+        "banner":{"flag":true, "value":"82672A5A665AE630671918B7494C4FE246F88DF7DAF3B7F72CCC0E46DBA8A3198C69AE6234AF55A96C60E77B6451AA21"},
+        "inters":{"flag":true, "value":"82672A5A665AE630671918B7494C4FE2D3E8ED42875C93438AEABFEE12DB42145A71F33DDAFFCDE38D554E4AE8DB9686"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
     },
     "fan":{
         "banner":{"flag":true, "value":""},
-        "inters":{"flag":true, "value":""},
+        "inters":{"flag":true, "value":"4C758819893B2049935998BA1F645C9CC45FBD803150EE8F8EB3E0821D12B49A"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
     },
     "unity":{
-        "game_id":{"flag":true, "value":""},
-        "placement_id":{"flag":true, "value":""}
+        "game_id":{"flag":true, "value":"E685253DC1668278F4A05C44AC3140DE"},
+        "placement_id":{"flag":true, "value":"8EBF60D1D69BBA168D66600547EBBC40"}
     }
 }
