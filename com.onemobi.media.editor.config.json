@@ -1,7 +1,7 @@
 {
-    "key0":"",
-    "key1":"",
-    "key": "",
+    "key0":"A436D1B83175C004E9BF436F3CE1FAD6C2F1708C57598361BA4BBA57C4A64632B1D03CBB198A8D25B559B0A0C504E87201519AF3A37B92AAEFC069AA446F967079473B898BD3F3054B85B5E034A15F52546E54BD133430E3D78515FD13002A1A96B73CDE47E6AE6207BCC66898D60A6C",
+    "key1":"A436D1B83175C004E9BF436F3CE1FAD6C2F1708C57598361BA4BBA57C4A64632B1D03CBB198A8D25B559B0A0C504E87201519AF3A37B92AAEFC069AA446F967079473B898BD3F3054B85B5E034A15F52546E54BD133430E3D78515FD13002A1A96B73CDE47E6AE6207BCC66898D60A6C",
+    "key": "B6A563FC44246D24F224F0902B0AF88AB92F651AC18088667DB19D177FA80CD2",
     "topic":"global",
     "time_skip": 28800000,
     "time_repeat": 180000,
@@ -9,19 +9,19 @@
     "time_ad_live":10000,
     "notification_time_skip": 43200000,
     "ad_clock":"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
-    "ad_networks":"fan,admob",
+    "ad_networks":"admob,fan",
     "ad_sequence":"admob,admob,fan,admob,admob,fan,admob,admob,fan,admob",
     "deny_country": "",
     "admob":{
-        "app_id":{"flag":true, "value":""},
-        "banner":{"flag":true, "value":""},
-        "inters":{"flag":true, "value":""},
+        "app_id":{"flag":true, "value":"82672A5A665AE630671918B7494C4FE2CED6451A311E3B655DF8FC6CC5AA2BA89E430D05B57AA5D0EDCCAABC157BEF9A"},
+        "banner":{"flag":true, "value":"82672A5A665AE630671918B7494C4FE236E8C57CB9EF544C820ED1AAE87FC1A4C85D22A41E20E441A86C9CCA643DBD0C"},
+        "inters":{"flag":true, "value":"82672A5A665AE630671918B7494C4FE2CC3FE8BAFC68BD57DCCFFB3BFC7E1B3906EE307A5FA450FA2F8A7D4CB683A212"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
     },
     "fan":{
         "banner":{"flag":true, "value":""},
-        "inters":{"flag":true, "value":""},
+        "inters":{"flag":true, "value":"0ADC0DCBA3F14BDBA1113A4C031C8990614326917762D3805CCFE07B8FE9C075"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
     },
