@@ -1,7 +1,7 @@
 {
-    "key0":"",
-    "key1":"",
-    "key": "",
+	"key0":"A436D1B83175C004E9BF436F3CE1FAD6C2F1708C57598361BA4BBA57C4A64632B1D03CBB198A8D25B559B0A0C504E87201519AF3A37B92AAEFC069AA446F9670F4FAFDD1829EC074C05D68E723237DFC20FE2AD489F5780963DA933146CDC26B",
+	"key1":"A436D1B83175C004E9BF436F3CE1FAD6C2F1708C57598361BA4BBA57C4A64632B1D03CBB198A8D25B559B0A0C504E87201519AF3A37B92AAEFC069AA446F9670F4FAFDD1829EC074C05D68E723237DFC20FE2AD489F5780963DA933146CDC26B",
+    "key": "45BE9AC4EED23EF2208866CCAA57704B2DC91E353B55D514C0DBE61D2ED1D613",
     "topic":"global",
     "time_skip": 28800000,
     "time_repeat": 300000,
@@ -13,15 +13,15 @@
     "ad_sequence":"admob,admob,fan,admob,admob,fan,admob,admob,fan,admob",
     "deny_country": "",
     "admob":{
-        "app_id":{"flag":true, "value":""},
-        "banner":{"flag":true, "value":""},
-        "inters":{"flag":true, "value":""},
+        "app_id":{"flag":true, "value":"6157E21F3372DF116167F3EFFB43580CF7E17BE905444B854A9A5236E3C8F31E949F2D46E490371834AC4F4C53726FD7"},
+        "banner":{"flag":true, "value":"6157E21F3372DF116167F3EFFB43580C2DFE48CC90AB053530F1E574BF99640FBC777D5F8559A2D096EDEFA7A7A87AC5"},
+        "inters":{"flag":true, "value":"6157E21F3372DF116167F3EFFB43580C52BD52D1A4547A2C566BB8F4EB5166B25EC7348691A543A9C7EDFFA30A2A4A03"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
     },
     "fan":{
         "banner":{"flag":true, "value":""},
-        "inters":{"flag":true, "value":""},
+        "inters":{"flag":true, "value":"A1F59955BA918D1EF66137CF4F3A6D905BDE80698BB473D79D75DFE20629D3342173F10A8692800C0996A011C672BEE0"},
         "native":{"flag":true, "value":""},
         "reward":{"flag":true, "value":""}
     },
