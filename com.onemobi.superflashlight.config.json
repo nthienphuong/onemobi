@@ -1,7 +1,7 @@
 {
-    "key0":"",
-    "key1":"",
-    "key": "",
+    "key0":"A436D1B83175C004E9BF436F3CE1FAD6C2F1708C57598361BA4BBA57C4A64632B1D03CBB198A8D25B559B0A0C504E87201519AF3A37B92AAEFC069AA446F96706B3D24C1F084BF52D7CEEC5ADADE1AE189FE2571D985192EC3FEC7C75831AA874E0744C2B98FB7A7BB7A2E6326A32B64",
+    "key1":"A436D1B83175C004E9BF436F3CE1FAD6C2F1708C57598361BA4BBA57C4A64632B1D03CBB198A8D25B559B0A0C504E87201519AF3A37B92AAEFC069AA446F96706B3D24C1F084BF52D7CEEC5ADADE1AE189FE2571D985192EC3FEC7C75831AA874E0744C2B98FB7A7BB7A2E6326A32B64",
+    "key": "54869B352FBDA6EF7BB51721CA43B9B123D5AC79751DA0019AA29A8E50902F83",
     "topic":"global",
     "time_skip": 28800000,
     "time_repeat": 300000,
@@ -9,14 +9,20 @@
     "time_ad_live":10000,
     "notification_time_skip": 43200000,
     "ad_clock":"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
-    "ad_networks":"fan,admob",
-    "ad_sequence":"admob,admob,fan,admob,admob,fan,admob,admob,fan,admob",
+    "ad_networks":"admob,richadx",
+    "ad_sequence":"admob,admob,admob,admob,admob,admob,richadx,admob,admob,richadx",
     "deny_country": "",
     "admob":{
-        "app_id":{"flag":true, "value":""},
-        "banner":{"flag":true, "value":""},
-        "inters":{"flag":true, "value":""},
+        "app_id":{"flag":true, "value":"6157E21F3372DF116167F3EFFB43580CF781A01A8445C0F43C4371AD16C0727813C24F6AA737FC6A0BD99CA1B6A4B4EE"},
+        "banner":{"flag":true, "value":"6157E21F3372DF116167F3EFFB43580CC12DFA62D5ED155189A893505094D9E2CC9E54293D9111A565C14B55513296AB"},
+        "inters":{"flag":true, "value":"6157E21F3372DF116167F3EFFB43580C3BAB326BD25B6DCD8C8ECBE1E18FD70F60604F4033C9F5DDC7897FF764EDD833"},
         "native":{"flag":true, "value":""},
+        "reward":{"flag":true, "value":""}
+    },
+    "richadx":{
+        "banner":{"flag":true, "value":""},
+        "inters":{"flag":true, "value":"13887A3E4D9E32CC995185C62324AADCACA0E6E0760B18255BE6A0C1B873DD29"},
+        "native":{"flag":true, "value":"13887A3E4D9E32CC995185C62324AADCACA0E6E0760B18255BE6A0C1B873DD29"},
         "reward":{"flag":true, "value":""}
     },
     "fan":{
