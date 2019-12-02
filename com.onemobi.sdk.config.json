@@ -27,5 +27,9 @@
     },
     "mopub":{
         "inters":{"flag":true, "value":"002CE9743AED83B8C6691BD98AE66219DC402C6DF2DFB9A2DBB69D0799F0AC78C5CCBEFDCED62F8DCA2288ADD77260BD"}
+    },
+    "ironsrc": {
+        "api_key":{"flag":true, "value":"95AF7AF4813BBC6BF91D7715D0AF6CC0"},
+        "inters":{"flag":true, "value":"43F32EB735B4DCE89C8403E4BC38B291A662D3CB6A3DECA88BAB05609823CE3B"}
     }
 }
